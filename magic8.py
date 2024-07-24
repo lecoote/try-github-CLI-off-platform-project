@@ -1,4 +1,3 @@
-import number
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
